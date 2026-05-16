@@ -76,7 +76,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 <p><strong><a href="#project2">Project 2:</a></strong> &lt;Rail-Guided Rack-Climbing Robotic System for Automated Bin Retrieva&gt;</p>
 
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
+
 
 <p><em>(You can add more projects as needed)</em></p>
 
@@ -117,18 +117,6 @@ The image shows multiple mobile robots carrying storage containers or loads in a
 <p>
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
-
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
 
 ## **References**
@@ -194,16 +182,9 @@ During my internship period, I participated in multiple community-oriented activ
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="<img width="719" height="957" alt="image" src="https://github.com/user-attachments/assets/badff941-2b36-40ea-bd9b-a1fc6e495d17" />
-" />
-" />
-" alt="Community Service Photo 1" width="30%">
-<img src="![Uploading image.png…]()
-" />
-" />
-" alt="Community Service Photo 2" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
-</div>
+<img src=https://github.com/poojacg13autocad/Pooja-G13AutoCAD-/blob/5d61a29befd9d0796500704efa09ab195fe9358d/WhatsApp%20Image%202026-05-04%20at%206.53.53%20PM.jpe alt="Community Service Photo 1" width="30%">
+<img src=https://github.com/poojacg13autocad/Pooja-G13AutoCAD-/blob/5d61a29befd9d0796500704efa09ab195fe9358d/WhatsApp%20Image%202026-05-04%20at%206.53.54%20PM.jpeg) alt="Community Service Photo 2" width="30%">
+
 
 ---
 
