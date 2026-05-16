@@ -194,9 +194,13 @@ During my internship period, I participated in multiple community-oriented activ
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="<img width="719" height="957" alt="image" src="https://github.com/user-attachments/assets/0400838b-985c-4397-afe4-45e6e391ac72" />
+<img src="<img width="719" height="957" alt="image" src="https://github.com/user-attachments/assets/badff941-2b36-40ea-bd9b-a1fc6e495d17" />
+" />
+" />
 " alt="Community Service Photo 1" width="30%">
-<img src="<img width="719" height="930" alt="WhatsApp Image 2026-05-16 at 9 45 18 PM" src="https://github.com/user-attachments/assets/0d87b74b-83e0-48a9-8c1c-61130e3e8f42" />
+<img src="![Uploading image.png…]()
+" />
+" />
 " alt="Community Service Photo 2" width="30%">
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
 </div>
