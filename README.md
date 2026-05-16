@@ -22,7 +22,7 @@
     <p><strong>Email ID:</strong> poojacg13autocad@gmail.com </p>
     <p><strong>College Name:</strong> UBDT College of Engineering  </p>
     <p><strong>Branch/Specialization :</strong> Mechanical Engineering </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>College ID:</strong> E061 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
@@ -41,8 +41,8 @@
 <div align="left" style="margin: 20px; font-size: 16px;">
 
 <p><strong>Trainer Name:</strong> Mairala Chinnarao</p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Email ID:</strong> chinnaraomairala@gmail.com</p>
+<p><strong>Trainer Designation:</strong> Design Engineering</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -72,9 +72,9 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> &lt;Regenerative Braking System&gt;</p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project2">Project 2:</a></strong> &lt;Rail-Guided Rack-Climbing Robotic System for Automated Bin Retrieva&gt;</p>
 
 <p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
@@ -83,20 +83,36 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: Regenerative Braking System</h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+  This project demonstrates the concept of capturing and reusing braking energy, which is typically lost, to enhance overall system efficiency
+
+Key Components Used:
+
+Spur gears
+
+Rack and pinion mechanism
+
+Compression springs
+
+Structural frame
+
+Shaft and bearing supports
+
+Working Principle: When braking force is applied,
+
+the rack translates linearly, causing the gear mechanism to rotate. This rotational motion compresses the springs, thereby storing mechanical energy. The stored energy can subsequently be released and reused, improving system efficiency. This project has significantly enhanced my skills in 3D modeling, assembly design, and mechanical system integration using SolidWorks
 </p>
 <p>
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
+<h3 id="project2">Project 2: Rail-Guided Rack-Climbing Robotic System for Automated Bin Retrieval</h3>
 <p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
+ This project is designed to automate the transportation of materials, products, or tools inside an industrial environment. The robots move automatically from one location to another without human assistance. They help reduce manual labor, improve efficiency, and increase safety in industries.
+The image shows multiple mobile robots carrying storage containers or loads in a factory setup.
+[8:34 pm, 16/05/2026] POOJA: This project demonstrates an intelligent industrial transportation system using autonomous mobile robots. It improves productivity, reduces human workload, and supports modern smart manufacturing systems. Such robots are becoming an important part of Industry 4.0 and factory automation.
 </p>
 <p>
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
@@ -133,19 +149,35 @@ LST and SST sessions helped me....
 
 <!-- add descreption in your own words -->
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship period, I participated in multiple community-oriented activities 
+
+These activities truly embody the spirit of compassion, sustainability, and community care.
+
+Heartfelt thanks to SURE Trust for leading such meaningful efforts and giving us all a chance to contribute to positive change.
+
+Excited to continue being part of initiatives that make a real difference!
+During my internship period, I participated in multiple community-oriented activities
 
 ### **Activities Involved**
 <!-- add the location where you given -->
 - **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
   
- <!-- add the location where you have panted -->
+ Davanagere,Karnataka
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-  <!-- add the location where you helped -->
+  Davanagere,Karnataka
 - **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
 
-<!-- you can write impacts according to your experience in your words-->
+Feeling grateful to be part of another inspiring initiative!
+
+I had the privilege to participate in the food donation and tree plantation drives conducted by SURE Trust.
+
+These activities truly embody the spirit of compassion, sustainability, and community care.
+
+Heartfelt thanks to SURE Trust for leading such meaningful efforts and giving us all a chance to contribute to positive change.
+
+Excited to continue being part of initiatives that make a real difference!
+During my internship period, I participated in multiple community-oriented activities
 
 ### **Impact / Contribution**
 
@@ -162,8 +194,8 @@ During my internship period, I participated in multiple community-oriented activ
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
+<img src="https://drive.google.com/file/d/1IclYvEoxGeKa0-xFCab4Yl8RG-bguxNB/view?usp=drivesdk" alt="Community Service Photo 1" width="30%">
+<img src="https://drive.google.com/file/d/1IclYvEoxGeKa0-xFCab4Yl8RG-bguxNB/view?usp=drivesdk" alt="Community Service Photo 2" width="30%">
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
 </div>
 
