@@ -182,7 +182,7 @@ During my internship period, I participated in multiple community-oriented activ
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src=https://github.com/poojacg13autocad/Pooja-G13AutoCAD-/blob/5d61a29befd9d0796500704efa09ab195fe9358d/WhatsApp%20Image%202026-05-04%20at%206.53.53%20PM.jpe alt="Community Service Photo 1" width="30%">
+<img src=https://github.com/poojacg13autocad/Pooja-c/blob/main/WhatsApp%20Image%202026-05-16%20at%209.45.19%20PM.jpeg) alt="Community Service Photo 1" width="30%">
 <img src=https://github.com/poojacg13autocad/Pooja-G13AutoCAD-/blob/5d61a29befd9d0796500704efa09ab195fe9358d/WhatsApp%20Image%202026-05-04%20at%206.53.54%20PM.jpeg) alt="Community Service Photo 2" width="30%">
 
 
